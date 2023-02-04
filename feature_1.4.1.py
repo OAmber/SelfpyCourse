@@ -1,4 +1,3 @@
-import random
 HANGMAN_ASCII_ART = """ _    _                                         
  | |  | |                                        
  | |__| | __ _ _ __   __ _ _ __ ___   __ _ _ __  
